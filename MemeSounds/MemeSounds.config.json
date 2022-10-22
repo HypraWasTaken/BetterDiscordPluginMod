@@ -7,7 +7,7 @@
             "github_username": "HypraWasTaken",
             "twitter_username": "hyprawastaken"
         }],
-        "version": "0.6.2",
+        "version": "0.6.3",
         "description": "Plays Memetastic sounds depending on what is being sent in chat. This was heavily inspired by the idea of Metalloriff's bruh plugin so go check him out!",
         "github": "https://github.com/HypraWasTaken/BetterDiscordPluginMod/blob/main/MemeSounds/MemeSounds.plugin.js",
         "github_raw": "https://raw.githubusercontent.com/HypraWasTaken/BetterDiscordPluginMod/main/MemeSounds/MemeSounds.plugin.js"
